@@ -31,8 +31,8 @@ src/
 
 > Replace the placeholder below with your actual screenshot file.
 
-![Project Screenshot](./screenshot1.png)
-![Project Screenshot](./screenshot2.png)
+![Project Screenshot](./Screenshot1.png)
+![Project Screenshot](./Screenshot2.png)
 
 ---
 📘 Component Overview
